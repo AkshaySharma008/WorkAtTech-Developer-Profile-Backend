@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d7b0667.chunk.css",
+    "main.js": "/static/js/main.fdf89e0a.chunk.js",
+    "main.js.map": "/static/js/main.fdf89e0a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7f0ecfc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7f0ecfc.js.map",
+    "static/css/2.b8803beb.chunk.css": "/static/css/2.b8803beb.chunk.css",
+    "static/js/2.ebc55702.chunk.js": "/static/js/2.ebc55702.chunk.js",
+    "static/js/2.ebc55702.chunk.js.map": "/static/js/2.ebc55702.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f1302e51411d36e2b798998133c0632f.js": "/precache-manifest.f1302e51411d36e2b798998133c0632f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b8803beb.chunk.css.map": "/static/css/2.b8803beb.chunk.css.map",
+    "static/css/main.0d7b0667.chunk.css.map": "/static/css/main.0d7b0667.chunk.css.map",
+    "static/js/2.ebc55702.chunk.js.LICENSE.txt": "/static/js/2.ebc55702.chunk.js.LICENSE.txt",
+    "static/media/account_circle-24px.svg": "/static/media/account_circle-24px.9960d83e.svg",
+    "static/media/business-24px.svg": "/static/media/business-24px.ac4cea06.svg",
+    "static/media/email-24px.svg": "/static/media/email-24px.ba66d505.svg",
+    "static/media/iconfinder_160_Hackerrank_logo_logos_4373234.png": "/static/media/iconfinder_160_Hackerrank_logo_logos_4373234.50538e10.png",
+    "static/media/iconfinder_2018_social_media_popular_app_logo_linkedin_3225190.png": "/static/media/iconfinder_2018_social_media_popular_app_logo_linkedin_3225190.558fac1a.png",
+    "static/media/iconfinder_2018_social_media_popular_app_logo_twitter_3225183.png": "/static/media/iconfinder_2018_social_media_popular_app_logo_twitter_3225183.f0b5cb1e.png",
+    "static/media/iconfinder_Circled_Medium_svg5_5279113.png": "/static/media/iconfinder_Circled_Medium_svg5_5279113.9935f62c.png",
+    "static/media/iconfinder_github_317712.png": "/static/media/iconfinder_github_317712.957c4dd9.png",
+    "static/media/insert_link-24px (1).svg": "/static/media/insert_link-24px (1).98f4f684.svg",
+    "static/media/location_on-24px.svg": "/static/media/location_on-24px.a9efc0d9.svg",
+    "static/media/north_east-24px.svg": "/static/media/north_east-24px.3613163b.svg",
+    "static/media/search-24px.svg": "/static/media/search-24px.db5d8122.svg",
+    "static/media/undraw_dev_productivity_umsq 1.png": "/static/media/undraw_dev_productivity_umsq 1.ac56aa6d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7f0ecfc.js",
+    "static/css/2.b8803beb.chunk.css",
+    "static/js/2.ebc55702.chunk.js",
+    "static/css/main.0d7b0667.chunk.css",
+    "static/js/main.fdf89e0a.chunk.js"
+  ]
+}
